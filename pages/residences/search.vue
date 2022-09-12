@@ -359,7 +359,7 @@
     data() {
       return {
         swiperOption: {
-          slidesPerView: 4,
+          slidesPerView: 3,
           spaceBetween: 30,
           navigation: {
             nextEl: '.swiper-button-next',
